@@ -1,0 +1,50 @@
+joias(
+		anel AN002 AnelSimples 00-05-1998 AmilcarMacedo 303.42 200.0 ouro lisa 0
+        ,
+        anel AN066 SeteEscravas 05-06-2000 AmilcarMacedo 609.26 250.0 ouro rubi 1
+        ,
+        anel AN077 GoldAmetist 24-12-1990 AmilcarMacedo 799.99 300.0 ouro ametista 3
+        ,
+        anel AN021 SilverTopaz 21-02-2000 AmilcarMacedo 199.99 300.0 prata topazio 1
+        ,
+        anel AN034 SilverEsmerald 04-11-2003 AmilcarMacedo 499.99 400.0 prata esmeralda 5
+        ,
+		brincos BR021 BrincosOuro 03-09-2011 ErnestoFigueiredo 250.0 153.21 ouro lisa 0
+		,
+		brincos BR022 BrincosPrata 09-02-2012 ErnestoFigueiredo 199.99 132.57 prata rubi 1
+		,
+		colar COL222 ColarOuro 00-00-2002 FernandoLopes 400.23 299.99 ouro lisa 0
+		,
+		alfinete ALF921 AlfineteEsmeralda 20-10-2008 RuiMachado 50.86 199.99 ouro esmeralda 1
+        );  
+
+objectos de prata(
+				faqueiro FAQ199 Caninhas 00-00-1990 ManuelMachado 6400 7031
+				,
+                jarra JAR200 JarraPequena 00-00-1996 ManuelMachado 50 26.8
+                ,
+                jarra JAR201 JarraGrande 00-00-1980 RuiBastos 790 1500
+                ,
+                taca TAC0023 TacaPequena 00-00-1930 RodrigoAlmeida 3000 138.8
+                ,
+                taca TAC0026 TacaGrande 00-00-1982 RodrigoAlmeida 500 1380.8
+                ,
+                moldura MOL115 MolduraSimples 15-08-2009 FernandoMatos 70 500
+                ,
+                cigarreira CIG103 CigarreiraSimples 08-10-2005 Desconhecido 100 400.0
+                ,
+                candelabro CAND293 CandelabroSimples 00-00-1990 RuiFreitas 1000 10021.32
+                ); 
+relogios(
+		pulso SURW100 SwatchTouchWhite 25-06-2012 Swatch 112.99 350
+        ,
+        pulso SVCK4038G Irony 22-05-2010 Swatch 124.00 500.45
+        ,
+        mesa KLOP30X LEDPiramide 11-03-2005 Koisas 8.00 1000.0
+        ,
+        parede com pe SQK22KL IKEAPsPendel 03-04-2008 IKEA 159.00 4000.5
+        ,
+        parede LO12KJ SKOJ 11-12-2010 IKEA 7.99 400.0
+        ,
+        parede LO13KJ IKEAPS 11-12-2011 IKEA 29.99 800.30
+        ).

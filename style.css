@@ -1,0 +1,31 @@
+h1,h4 {
+color: #000000;
+text-align: center;
+}
+
+body {
+background: #f0f0f0;
+text-align: left;
+color: #572225;
+}
+
+img {
+padding-left: 150px;
+width: 100px;
+height: 100px;
+}
+
+#dvj {
+color: #db1b1b;
+padding-left: 150px;
+}
+
+#dvp {
+color: #db1b1b;
+padding-left: 150px;
+}
+
+#dvr {
+color: #db1b1b;
+padding-left: 150px;
+}
