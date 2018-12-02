@@ -12,7 +12,7 @@ Some of the main challenges:
 - Query language that allows to query object information;
 - Among others.
 
-Screenshots: [Homepage](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/homepage.png), [Jewelry Exhibitors](https://raw.githubusercontent.com/david-branco/collisions/master/screenshots/exp_joias.png).
+Screenshots: [Homepage](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/homepage.png), [Jewelry Exhibitors](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/exp_joias.png).
 
 ---
 
@@ -30,4 +30,4 @@ Alguns dos principais desafios:
 - Linguagem de query que permite consultar informação de objectos;
 - Entre outros.
 
-Screenshots: [Homepage](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/homepage.png), [Expositor Jóias](https://raw.githubusercontent.com/david-branco/collisions/master/screenshots/exp_joias.png).
+Screenshots: [Homepage](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/homepage.png), [Expositor Jóias](https://raw.githubusercontent.com/david-branco/odume/master/screenshots/exp_joias.png).
